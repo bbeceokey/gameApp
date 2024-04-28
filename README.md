@@ -16,7 +16,5 @@ Tabbar for home page and favorites page
 Searchbar for searching game
 
 # ScreenShots
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-29 at 00 56 35](https://github.com/bbeceo![simulator_screenshot_9D26EB3D-9001-4D35-A977-28C805F46B64](https://github.com/bbeceokey/gameApp/assets/158613315/a225dede-de85-40ce-99dc-7979e9bc85cc)
-key/gameApp/assets/158613315/3339e251-1c8b-4d45-9a5a-aba4bdf344d4)
-![Uploading simulator_screenshot_D61A3301-6E2F-487A-951F-C84258331EE9.png…]()
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-29 at 00 56 35](https://github.com/bbeceokey/gameApp/assets/158613315/ee2060f7-5df9-43a9-b483-e2577cd80a64)
 ![simulator_screenshot_101EAD5C-AE57-4B98-9DF2-A18008FF4028](https://github.com/bbeceokey/gameApp/assets/158613315/c6b01fc0-fcfe-404a-9ff3-9014798ef2b3)
